@@ -1,0 +1,17 @@
+button{
+    padding: 10px 20px;
+    background-color: rgb(9, 9, 199);
+    color: white;
+    border-radius: 6px;
+    border: none;
+}
+
+#featp{
+font-size: 36px;
+text-shadow: 0 10px 12px gray;
+}
+
+img{
+    height:300px;
+    width:300px;
+}
